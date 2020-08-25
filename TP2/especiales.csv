@@ -1,0 +1,4 @@
+%,largo,+1,c,Alarga la serpiente.
+>,velocidad,-0.3,o,Aumenta la velocidad.
+<,velocidad,+1,l,Disminuye la velocidad.
+/,largo,-1,v,Disminuye el largo.
